@@ -1,5 +1,1 @@
-<html>
-	<body>
-	Ola mundo
-	</body>
-</html>
+Ola mundo
